@@ -48,3 +48,4 @@ $arrJobs = array(
 //$crawler->setFetchJobs($arrJobs)->run(); //这一行的效果和下面两行的效果一样
 $crawler->setFetchJobs($arrJobs);
 $crawler->run();
+print_r(123);
